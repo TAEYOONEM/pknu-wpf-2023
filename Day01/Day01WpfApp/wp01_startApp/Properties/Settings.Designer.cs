@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace wp01_startApp.Properties
+namespace wp01_startapp.Properties
 {
 
 

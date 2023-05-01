@@ -1,0 +1,13 @@
+﻿<Window x:Class="wp07_mahApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wp07_mahApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="일반버튼" HorizontalAlignment="Left" Margin="156,184,0,0" VerticalAlignment="Top" Height="91" Width="104"/>
+
+    </Grid>
+</Window>

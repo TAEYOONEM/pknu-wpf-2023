@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wp12_finedustCheck", "wp12_finedustCheck\wp12_finedustCheck.csproj", "{7694404C-90FE-44FF-BDDB-B9B4C5BC43D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wp11_movieFinder", "wp11_movieFinder\wp11_movieFinder.csproj", "{3ED58CDA-FDEE-4EF1-BC3C-2335A93715A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7694404C-90FE-44FF-BDDB-B9B4C5BC43D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7694404C-90FE-44FF-BDDB-B9B4C5BC43D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7694404C-90FE-44FF-BDDB-B9B4C5BC43D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7694404C-90FE-44FF-BDDB-B9B4C5BC43D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED58CDA-FDEE-4EF1-BC3C-2335A93715A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED58CDA-FDEE-4EF1-BC3C-2335A93715A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED58CDA-FDEE-4EF1-BC3C-2335A93715A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED58CDA-FDEE-4EF1-BC3C-2335A93715A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9EA6884-C8C4-4A31-B423-F7FC3190BC79}
+	EndGlobalSection
+EndGlobal

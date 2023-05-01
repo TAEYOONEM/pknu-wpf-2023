@@ -12,3 +12,5 @@
 - WPF 기초
 	- 기본 컨트롤
 	- 레이아웃 Grid...
+	- Simple App
+	- DB 핸들링

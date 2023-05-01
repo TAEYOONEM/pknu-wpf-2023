@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace wp01_startApp
+namespace wp01_startapp
 {
     /// <summary>
     /// MainWindow.xaml에 대한 상호 작용 논리
@@ -27,13 +27,12 @@ namespace wp01_startApp
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("클릭!","클릭",MessageBoxButton.OK, MessageBoxImage.Error);
+            MessageBox.Show("클릭!", "클릭", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void BtnNew_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("생성!");
-
         }
     }
 }
